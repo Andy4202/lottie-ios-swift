@@ -2,6 +2,10 @@
 [![Version](https://img.shields.io/cocoapods/v/lottie-ios.svg?style=flat)](https://cocoapods.org/pods/lottie-ios)[![License](https://img.shields.io/cocoapods/l/lottie-ios.svg?style=flat)](https://cocoapods.org/pods/lottie-ios)[![Platform](https://img.shields.io/cocoapods/p/lottie-ios.svg?style=flat)](https://cocoapods.org/pods/lottie-ios)
 >  ==**Announcement**==: As of 3.0 Lottie has been completely rewritten in Swift 4.2! For Objective-C support please use Lottie 2.5.3. Read Migration doc [Here](/Documentation/MIGRATING.md).
 
+Note: This repo has been renamed to lottie-ios-swift with the intention of running it along side the previous version of Lottie writtein in Objective-C.
+
+
+
 Lottie is a mobile library for Android and iOS that natively renders vector based animations and art in realtime with minimal code.
 
 Lottie loads and renders animations and vectors exported in the bodymovin JSON format. Bodymovin JSON can be created and exported from After Effects with [bodymovin](https://github.com/bodymovin/bodymovin), Sketch with [Lottie Sketch Export](https://github.com/buba447/Lottie-Sketch-Export), and from [Haiku](https://www.haiku.ai). 
