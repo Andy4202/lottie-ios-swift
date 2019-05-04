@@ -828,7 +828,7 @@
 		486E8387220A3038007CD915 = {
 			isa = PBXGroup;
 			children = (
-				486E8393220A3038007CD915 /* Lottie */,
+				486E8393220A3038007CD915 /* LottieSwift */,
 				486E8392220A3038007CD915 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -845,13 +845,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		486E8393220A3038007CD915 /* Lottie */ = {
+		486E8393220A3038007CD915 /* LottieSwift */ = {
 			isa = PBXGroup;
 			children = (
 				486E86FA220B78BF007CD915 /* src */,
 				486E8395220A3038007CD915 /* Info.plist */,
 			);
-			path = Lottie;
+			path = LottieSwift;
 			sourceTree = "<group>";
 		};
 		486E86FA220B78BF007CD915 /* src */ = {
@@ -1467,7 +1467,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 486E838B220A3038007CD915 /* Build configuration list for PBXProject "Lottie" */;
+			buildConfigurationList = 486E838B220A3038007CD915 /* Build configuration list for PBXProject "LottieSwift" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -2512,7 +2512,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		486E838B220A3038007CD915 /* Build configuration list for PBXProject "Lottie" */ = {
+		486E838B220A3038007CD915 /* Build configuration list for PBXProject "LottieSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				486E8397220A3038007CD915 /* Debug */,
