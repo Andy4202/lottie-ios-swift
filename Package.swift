@@ -2,14 +2,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "Lottie",
+    name: "LottieSwift",
     // platforms: [.iOS("9.0"), .macOS("10.10"), tvOS("9.0"), .watchOS("2.0")],
     products: [
-        .library(name: "Lottie", targets: ["Lottie"])
+        .library(name: "LottieSwift", targets: ["LottieSwift"])
     ],
     targets: [
         .target(
-            name: "Lottie",
+            name: "LottieSwift",
             path: "lottie-swift/src"
         )
     ]
